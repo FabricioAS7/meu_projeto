@@ -1,2 +1,4 @@
 Linha de texto 1 
 Linha escrita na outra branch 
+Number 2. Yeah, this is number two.
+Linha escrita no repositorio local
